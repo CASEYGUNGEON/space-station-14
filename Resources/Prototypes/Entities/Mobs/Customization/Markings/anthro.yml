@@ -1,0 +1,8 @@
+- type: marking
+  id: SnoutCanidAlt2
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/snouts.rsi
+    state: snout_canid_alt2

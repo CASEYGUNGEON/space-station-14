@@ -1,0 +1,140 @@
+- type: species
+  id: Anthro
+  name: species-name-anthro
+  roundStart: true
+  prototype: MobAnthro
+  sprites: MobAnthroSprites
+  defaultSkinTone: "#aaaaaa"
+  markingLimits: MobAnthroMarkingLimits
+  dollPrototype: MobAnthroDummy
+  skinColoration: Hues
+  # maleFirstNames: names_first
+  # femaleFirstNames: names_first
+  # naming: FirstDashFirst
+
+- type: speciesBaseSprites
+  id: MobAnthroSprites
+  sprites:
+    Head: MobAnthroHead
+    Snout: MobHumanoidAnyMarking
+    Chest: MobAnthroTorso
+    HeadTop: MobHumanoidAnyMarking
+    HeadSide: MobHumanoidAnyMarking
+    Tail: MobHumanoidAnyMarking
+    Eyes: MobHumanoidEyes
+    LArm: MobAnthroLArm
+    RArm: MobAnthroRArm
+    LHand: MobAnthroLHand
+    RHand: MobAnthroRHand
+    LLeg: MobAnthroLLeg
+    RLeg: MobAnthroRLeg
+    LFoot: MobAnthroLFoot
+    RFoot: MobAnthroRFoot
+
+- type: markingPoints
+  id: MobAnthroMarkingLimits
+  onlyWhitelisted: true
+  points:
+    Hair:
+      points: 0
+      required: false
+    FacialHair:
+      points: 0
+      required: false
+    Tail:
+      points: 1
+      required: false
+    Snout:
+      points: 1
+      required: true
+      defaultMarkings: [ SnoutCanidAlt2 ]
+    HeadTop:
+      points: 1
+      required: false
+    HeadSide:
+      points: 1
+      required: false
+
+- type: humanoidBaseSprite
+  id: MobAnthroHead
+  baseSprite:
+    sprite: Mobs/Species/Reptilian/parts.rsi
+    state: head_m
+
+- type: humanoidBaseSprite
+  id: MobAnthroHeadMale
+  baseSprite:
+    sprite: Mobs/Species/Reptilian/parts.rsi
+    state: head_m
+
+- type: humanoidBaseSprite
+  id: MobAnthroHeadFemale
+  baseSprite:
+    sprite: Mobs/Species/Reptilian/parts.rsi
+    state: head_f
+
+- type: humanoidBaseSprite
+  id: MobAnthroTorso
+  baseSprite:
+    sprite: Mobs/Species/Reptilian/parts.rsi
+    state: torso_m
+
+- type: humanoidBaseSprite
+  id: MobAnthroTorsoMale
+  baseSprite:
+    sprite: Mobs/Species/Reptilian/parts.rsi
+    state: torso_m
+
+- type: humanoidBaseSprite
+  id: MobAnthroTorsoFemale
+  baseSprite:
+    sprite: Mobs/Species/Reptilian/parts.rsi
+    state: torso_f
+
+- type: humanoidBaseSprite
+  id: MobAnthroLLeg
+  baseSprite:
+    sprite: Mobs/Species/Reptilian/parts.rsi
+    state: l_leg
+
+- type: humanoidBaseSprite
+  id: MobAnthroLHand
+  baseSprite:
+    sprite: Mobs/Species/Reptilian/parts.rsi
+    state: l_hand
+
+- type: humanoidBaseSprite
+  id: MobAnthroLArm
+  baseSprite:
+    sprite: Mobs/Species/Reptilian/parts.rsi
+    state: l_arm
+
+- type: humanoidBaseSprite
+  id: MobAnthroLFoot
+  baseSprite:
+    sprite: Mobs/Species/Reptilian/parts.rsi
+    state: l_foot
+
+- type: humanoidBaseSprite
+  id: MobAnthroRLeg
+  baseSprite:
+    sprite: Mobs/Species/Reptilian/parts.rsi
+    state: r_leg
+
+- type: humanoidBaseSprite
+  id: MobAnthroRHand
+  baseSprite:
+    sprite: Mobs/Species/Reptilian/parts.rsi
+    state: r_hand
+
+- type: humanoidBaseSprite
+  id: MobAnthroRArm
+  baseSprite:
+    sprite: Mobs/Species/Reptilian/parts.rsi
+    state: r_arm
+
+- type: humanoidBaseSprite
+  id: MobAnthroRFoot
+  baseSprite:
+    sprite: Mobs/Species/Reptilian/parts.rsi
+    state: r_foot
