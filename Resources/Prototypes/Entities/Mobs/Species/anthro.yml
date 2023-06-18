@@ -10,7 +10,7 @@
   - type: Hunger
   - type: Thirst
   - type: Body
-    prototype: Reptilian
+    prototype: Anthro
     requiredLegs: 2
   - type: Butcherable
     butcheringType: Spike

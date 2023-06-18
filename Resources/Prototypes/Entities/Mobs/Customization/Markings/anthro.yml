@@ -6,3 +6,21 @@
   sprites:
   - sprite: Mobs/Customization/snouts.rsi
     state: snout_canid_alt2
+
+- type: marking
+  id: SnoutCanidAlt
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/snouts.rsi
+    state: snout_canid_alt
+
+- type: marking
+  id: SnoutRound
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/snouts.rsi
+    state: snout_round
