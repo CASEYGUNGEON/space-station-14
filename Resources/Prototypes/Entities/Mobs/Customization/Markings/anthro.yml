@@ -1,3 +1,5 @@
+#####    SNOUTS    #####
+
 - type: marking
   id: SnoutCanidAlt2
   bodyPart: Snout
@@ -25,6 +27,8 @@
   - sprite: Mobs/Customization/skyratsnouts.rsi
     state: snout_round
 
+#####    EARS    #####
+
 - type: marking
   id: EarsFox
   bodyPart: HeadTop
@@ -35,6 +39,8 @@
     state: ears_fox_primary
   - sprite: Mobs/Customization/skyratears.rsi
     state: ears_fox_secondary
+
+##### TAILS #####
 
 - type: marking
   id: TailFox

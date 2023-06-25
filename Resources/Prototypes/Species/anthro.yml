@@ -35,7 +35,6 @@
 
 - type: markingPoints
   id: MobAnthroMarkingLimits
-  onlyWhitelisted: true
   points:
     Hair:
       points: 1
