@@ -15,7 +15,7 @@
   - type: Butcherable
     butcheringType: Spike
     spawned:
-    - id: FoodMeatLizard
+    - id: FoodMeat
       amount: 5
   - type: Speech
     speechSounds: Lizard
