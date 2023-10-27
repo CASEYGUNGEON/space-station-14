@@ -10,6 +10,7 @@
   components:
     - type: StationBankAccount
     - type: StationCargoOrderDatabase
+    - type: StationCargoBountyDatabase
 
 - type: entity
   id: BaseStationJobsSpawning
@@ -64,6 +65,13 @@
   abstract: true
   components:
     - type: SalvageExpeditionData
+
+- type: entity
+  id: BaseStationSiliconLawCrewsimov
+  abstract: true
+  components:
+  - type: SiliconLawProvider
+    laws: Crewsimov
 
 - type: entity
   id: BaseStationAllEventsEligible

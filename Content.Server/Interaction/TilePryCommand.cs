@@ -1,7 +1,9 @@
+using System.Numerics;
 using Content.Server.Administration;
 using Content.Server.Tools.Components;
 using Content.Shared.Administration;
 using Content.Shared.Maps;
+using Content.Shared.Tools.Components;
 using Robust.Server.Player;
 using Robust.Shared.Console;
 using Robust.Shared.Map;
@@ -9,7 +11,7 @@ using Robust.Shared.Map;
 namespace Content.Server.Interaction
 {
     /// <summary>
-    /// <see cref="TilePryingComponent.TryPryTile"/>
+    /// <see cref="Shared.Tools.Components.TilePryingComponent.TryPryTile"/>
     /// </summary>
     [AdminCommand(AdminFlags.Debug)]
     sealed class TilePryCommand : IConsoleCommand
@@ -60,7 +62,7 @@ namespace Content.Server.Interaction
             {
                 for (var j = -radius; j <= radius; j++)
                 {
-                    var tile = mapGrid.GetTileRef(playerPosition.Offset((i, j)));
+                    var tile = mapGrid.GetTileRef(playerPosition.Offset(new Vector2(i, j)));
                     var coordinates = mapGrid.GridTileToLocal(tile.GridIndices);
                     var tileDef = (ContentTileDefinition) tileDefinitionManager[tile.Tile.TypeId];
 
