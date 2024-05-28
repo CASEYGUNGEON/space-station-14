@@ -1,5 +1,6 @@
 #####    SNOUTS    #####
 
+## CANID ##
 - type: marking
   id: SnoutCanidAlt2
   bodyPart: Snout
@@ -19,6 +20,19 @@
     state: snout_canid_alt
 
 - type: marking
+  id: SnoutFlCanid
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_flcanid_primary
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_flcanid_secondary
+
+## LIZARD ##
+
+- type: marking
   id: SnoutRound
   bodyPart: Snout
   markingCategory: Snout
@@ -26,6 +40,17 @@
   sprites:
   - sprite: Mobs/Customization/skyratsnouts.rsi
     state: snout_round
+
+## BIRD ##
+
+- type: marking
+  id: BigBeak
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state:
 
 #####    EARS    #####
 
