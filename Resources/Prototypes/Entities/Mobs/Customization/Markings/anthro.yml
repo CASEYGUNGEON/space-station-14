@@ -30,6 +30,99 @@
   - sprite: Mobs/Customization/skyratsnouts.rsi
     state: snout_flcanid_secondary
 
+- type: marking
+  id: SnoutFlCanidAlt
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_flcanidalt_primary
+
+- type: marking
+  id: SnoutFlCanidStripe
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_flcanidstripe_primary
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_flcanidstripe_secondary
+
+- type: marking
+  id: SnoutFlCanidStripeAlt
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_flcanidstripealt_primary
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_flcanidstripealt_secondary
+
+- type: marking
+  id: SnoutFHusky
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_flcanidstripealt_primary
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_flcanidstripealt_secondary
+
+- type: marking
+  id: SnoutFWolfAlt
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_fwolfalt
+
+- type: marking
+  id: SnoutFsCanid
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_fscanid_primary
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_fscanid_secondary
+
+- type: marking
+  id: SnoutFsCanidAlt
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_fscanidalt_primary
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_fscanidalt_secondary
+
+- type: marking
+  id: SnoutFsCanidAlt2
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_fscanidalt2_primary
+
+- type: marking
+  id: SnoutFsCanidAlt3
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_fscanidalt3_primary
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_fscanidalt3_secondary
+
 ## LIZARD ##
 
 - type: marking
@@ -44,13 +137,78 @@
 ## BIRD ##
 
 - type: marking
-  id: BigBeak
+  id: SnoutFbird
   bodyPart: Snout
   markingCategory: Snout
   speciesRestriction: [Anthro]
   sprites:
   - sprite: Mobs/Customization/skyratsnouts.rsi
-    state:
+    state: snout_fbird_primary
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_fbird_secondary
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_fbird_tertiary
+
+
+
+## misc or don't know ##
+
+- type: marking
+  id: SnoutFWah
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state:  snout_fwah_primary
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state:  snout_fwah_secondary
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state:  snout_fwah_tertiary
+
+- type: marking
+  id: SnoutFWahAlt
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state:  snout_fwahalt_primary
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state:  snout_fwahalt_secondary
+
+- type: marking
+  id: SnoutFOtie
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state:  snout_fotie_primary
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state:  snout_fotie_secondary
+
+- type: marking
+  id: SnoutFOtieSmile
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state:  snout_fotiesmile_primary
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state:  snout_fotiesmile_secondary
+
+- type: marking
+  id: SnoutFPede
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state:  snout_fpede_primary
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state:  snout_fpede_secondary
 
 #####    EARS    #####
 
