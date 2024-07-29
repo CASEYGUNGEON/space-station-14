@@ -130,6 +130,17 @@
     - id: NewtonCradle
 
 - type: entity
+  id: CrateServiceFaxMachine
+  parent: CrateGenericSteel
+  name: fax machine crate
+  description: A fax machine and a screwdriver to set the name with.
+  components:
+  - type: StorageFill
+    contents:
+    - id: Screwdriver
+    - id: FaxMachineFlatpack
+
+- type: entity
   id: CrateServicePersonnel
   parent: CrateCommandSecure
   name: personnel crate
@@ -162,7 +173,7 @@
       - id: BookSpaceEncyclopedia
       - id: BookTheBookOfControl
       - id: BookBartendersManual
-      - id: BookChefGaming
+      - id: BookHowToCookForFortySpaceman
       - id: BookLeafLoversSecret
       - id: BookEngineersHandbook
       - id: BookScientistsGuidebook
@@ -172,6 +183,7 @@
       - id: BookMedicalReferenceBook
       - id: BookHowToSurvive
       - id: BookChemicalCompendium
+      - id: BookSpaceLaw
 
 - type: entity
   id: CrateServiceSodaDispenser
@@ -321,3 +333,16 @@
           prob: 0.1
         - id: ShardGlassPlasma
           prob: 0.1
+
+- type: entity
+  id: CrateCandles
+  parent: CrateGenericSteel
+  name: candles crate
+  description: Contains 4 boxes of candles, 2 large and 2 small. For atmosphere or something.
+  components:
+  - type: StorageFill
+    contents:
+      - id: BoxCandle
+        amount: 2
+      - id: BoxCandleSmall
+        amount: 2
