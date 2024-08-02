@@ -359,6 +359,60 @@
   - sprite: Mobs/Customization/skyratsnouts.rsi
     state: snout_birdsmall_tertiary
 
+- type: marking
+  id: SnoutBigBeakShort
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_bigbeakshort
+
+- type: marking
+  id: SnoutSlimBeak
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_slimbeak_primary
+
+- type: marking
+  id: SnoutSlimBeakAlt
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_slimbeakalt_primary
+
+- type: marking
+  id: SnoutSlimBeakShort
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_slimbeakshort_primary
+
+- type: marking
+  id: SnoutHookBeak
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_hookbeak_primary
+
+- type: marking
+  id: SnoutHookBeakBig
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_hookbeakbig_primary
+
 ## MISC SNOUTS ##
 
 - type: marking
@@ -739,6 +793,96 @@
     state:  snout_hjackal_primary
   - sprite: Mobs/Customization/skyratsnouts.rsi
     state:  snout_hjackal_secondary
+
+- type: marking
+  id: SnoutHSpots
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_hspots_primary
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_hspots_secondary
+
+- type: marking
+  id: SnoutFSkulldog
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_fskulldog_primary
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_fskulldog_secondary
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_fskulldog_tertiary
+
+- type: marking
+  id: SnoutSkulldog
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_skulldog_primary
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_skulldog_secondary
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_skulldog_tertiary
+
+- type: marking
+  id: SnoutSharkBlubber
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_sharkblubber_primary
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_sharkblubber_secondary
+
+- type: marking
+  id: SnoutRat
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_rat_primary
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_rat_tertiary
+
+- type: marking
+  id: SnoutNTajaran
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_ntajaran
+
+- type: marking
+  id: SnoutStubby
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_stubby_primary
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_stubby_secondary
+
+- type: marking
+  id: SnoutLeporid
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_leporid_primary
+  - sprite: Mobs/Customization/skyratsnouts.rsi
+    state: snout_leporid_secondary
 
 #####    EARS    #####
 
