@@ -1,13 +1,20 @@
 ##### SNOUTS #####
 
+### CANID ###
+
 marking-SnoutCanidAlt2-snout_canid_alt2 = Canid Snout ALT 2
 marking-SnoutCanidAlt2 = Canid Snout ALT 2
 
 marking-SnoutCanidAlt-snout_canid_alt = Canid Snout ALT
 marking-SnoutCanidAlt = Canid Snout ALT
 
+marking-SnoutFLCanid = FL Canid Snout
+marking-SnoutFLCanid-snout_flcanid_primary = FL Canid Snout (Primary)
+marking-SnoutFLCanid-snout_flcanid_secondary = FL Canid Snout (Secondary)
+
 marking-SnoutRound-snout_round = Round Snout
 marking-SnoutRound = Round Snout
+
 
 
 
