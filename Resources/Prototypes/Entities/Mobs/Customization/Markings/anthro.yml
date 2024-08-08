@@ -316,7 +316,7 @@
     state: snout_fcorvidbeak_primary
 
 - type: marking
-  id: SnoutFCorvidBeak
+  id: SnoutCorvidBeak
   bodyPart: Snout
   markingCategory: Snout
   speciesRestriction: [Anthro]
