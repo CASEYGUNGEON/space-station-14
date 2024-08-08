@@ -139,11 +139,32 @@ marking-SnoutHookBeakBig-snout_hookbeakbig_primary = Big, Hooked Bird Beak
 
 ### MISC SNOUTS ###
 
+marking-SnoutFWah = F Red Panda Snout
+marking-SnoutFWah-snout_fwah_primary = F Red Panda Snout (Primary)
+marking-SnoutFWah-snout_fwah_secondary = F Red Panda Snout (Secondary)
+marking-SnoutFWah-snout_fwah_tertiary = F Red Panda Snout (Secondary)
+
+marking-SnoutWah = Red Panda Snout
+marking-SnoutWah-snout_wah_primary = Red Panda Snout (Primary)
+marking-SnoutWah-snout_wah_secondary = Red Panda Snout (Secondary)
+marking-SnoutWah-snout_wah_tertiary = Red Panda Snout (Secondary)
+
+marking-SnoutFWahAlt = F Red Panda Snout Alt
+marking-SnoutFWahAlt-snout_fwahalt_primary = F Red Panda Snout Alt (Primary)
+marking-SnoutFWahAlt-snout_fwahalt_secondary = F Red Panda Snout Alt (Secondary)
+
+marking-SnoutWahAlt = Red Panda Snout Alt
+marking-SnoutWahAlt-snout_wahalt_primary = Red Panda Snout Alt (Primary)
+marking-SnoutWahAlt-snout_wahalt_secondary = Red Panda Snout Alt (Secondary)
+
+marking-SnoutFOtie = F Otie Snout
+marking-SnoutFOtie_primary = F Otie Snout (Primary)
+marking-SnoutFOtie_secondary = F Otie Snout (Secondary)
+marking-SnoutFOtie_tertiary = F Otie Snout (Tertiary)
+
 marking-EarsFox-ears_fox_secondary = Fox Ears (Inside)
 marking-EarsFox-ears_fox_primary = Fox Ears (Outside)
 marking-EarsFox = Fox Ears
-
-
 
 marking-TailFox-tail_fox_primary = Fox Tail (Primary)
 marking-TailFox-tail_fox_secondary = Fox Tail (Secondary)
