@@ -70,20 +70,74 @@ marking-SnoutSCanidAlt3-snout_scanidalt3_secondary = S Canid Snout Alt 3 (Second
 
 ### LIZARD ###
 
-marking-SnoutRound-snout_round = Round Snout
 marking-SnoutRound = Round Snout
+marking-SnoutRound-snout_round = Round Snout
 
-marking-SnoutRoundLight-snout_roundlight = Round Snout (Light)
 marking-SnoutRoundLight = Round Snout (Light)
+marking-SnoutRoundLight-snout_roundlight = Round Snout (Light)
 
-marking-SnoutSharp-snout_sharp = Sharp Snout
 marking-SnoutSharp = Sharp Snout
+marking-SnoutSharp-snout_sharp = Sharp Snout
 
-marking-SnoutSharpLight-snout_sharplight = Sharp Snout (Light)
 marking-SnoutSharpLight = Sharp Snout (Light)
+marking-SnoutSharpLight-snout_sharplight = Sharp Snout (Light)
 
+###  BIRD ###
 
+marking-SnoutFBird = F Bird Beak
+marking-SnoutFBird-snout_fbird_primary = F Bird Beak (Primary)
+marking-SnoutFBird-snout_fbird_secondary = F Bird Beak (Secondary)
+marking-SnoutFBird-snout_fbird_tertiary = F Bird Beak (Tertiary)
 
+marking-SnoutBird = Bird Beak
+marking-SnoutBird-snout_bird_primary = Bird Beak (Primary)
+marking-SnoutBird-snout_bird_secondary = Bird Beak (Secondary)
+marking-SnoutBird-snout_bird_tertiary = Bird Beak (Tertiary)
+
+marking-SnoutBigBeak = Big Beak
+marking-SnoutBigBeak-snout_bigbeak = Big Beak
+
+marking-SnoutFBigBeak = F Big Beak
+marking-SnoutFBigBeak-snout_bigbeak = F Big Beak
+
+marking-SnoutFCorvidBeak = F Corvid Beak
+marking-SnoutFCorvidBeak-snoutfcorvidbeak_primary = F Corvid Beak
+
+marking-SnoutCorvidBeak = Corvid Beak
+marking-SnoutCorvidBeak-snoutcorvidbeak_primary = Corvid Beak
+
+marking-SnoutFToucan = F Toucan Beak
+marking-SnoutFToucan-snout_ftoucan_primary = F Toucan Beak (Primary)
+marking-SnoutFToucan-snout_ftoucan_tertiary = F Toucan Break (Tertiary)
+
+marking-SnoutToucan = Toucan Beak
+marking-SnoutToucan-snout_toucan_primary = Toucan Beak (Primary)
+marking-SnoutToucan-snout_toucan_tertiary = Toucan Break (Tertiary)
+
+marking-SnoutBirdSmall = Small Bird Beak
+marking-SnoutBirdSmall-snout_birdsmall_primary = Small Bird Beak (Primary)
+marking-SnoutBirdSmall-snout_birdsmall_secondary = Small Bird Beak (Secondary)
+marking-SnoutBirdSmall-snout_birdsmall_tertiary = Small Bird Beak (Tertiary)
+
+marking-SnoutBigBeakShort = Big, Short Bird Beak
+marking-SnoutBigBeakShort-snout_bigbeakshort = Big, Short Bird Beak
+
+marking-SnoutSlimBeak = Slim Bird Beak
+marking-SnoutSlimBeak-snout_slimbeak_primary = Slim Bird Beak
+
+marking-SnoutSlimBeakAlt = Slim Bird Beak Alt
+marking-SnoutSlimBeakAlt-snout_slimbeakalt_primary = Slim Bird Beak Alt
+
+marking-SnoutSlimBeakShort = Slim Bird Beak Short
+marking-SnoutSlimBeakShort-snout_slimbeakshort_primary = Slim Bird Beak Short
+
+marking-SnoutHookBeak = Hooked Bird Beak
+marking-SnoutHookBeak-snout_hookbeak_primary = Hooked Bird Beak
+
+marking-SnoutHookBeakBig = Big, Hooked Bird Beak
+marking-SnoutHookBeakBig-snout_hookbeakbig_primary = Big, Hooked Bird Beak
+
+### MISC SNOUTS ###
 
 marking-EarsFox-ears_fox_secondary = Fox Ears (Inside)
 marking-EarsFox-ears_fox_primary = Fox Ears (Outside)
