@@ -735,9 +735,9 @@
   speciesRestriction: [Anthro]
   sprites:
   - sprite: Mobs/Customization/skyratsnouts.rsi
-    state:  snout_fsergal_primary
+    state:  snout_sergal_primary
   - sprite: Mobs/Customization/skyratsnouts.rsi
-    state:  snout_fsergal_secondary
+    state:  snout_sergal_secondary
 
 - type: marking
   id: SnoutHHorse
