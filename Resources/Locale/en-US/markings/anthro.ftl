@@ -158,9 +158,104 @@ marking-SnoutWahAlt-snout_wahalt_primary = Red Panda Snout Alt (Primary)
 marking-SnoutWahAlt-snout_wahalt_secondary = Red Panda Snout Alt (Secondary)
 
 marking-SnoutFOtie = F Otie Snout
-marking-SnoutFOtie_primary = F Otie Snout (Primary)
-marking-SnoutFOtie_secondary = F Otie Snout (Secondary)
-marking-SnoutFOtie_tertiary = F Otie Snout (Tertiary)
+marking-SnoutFOtie-snout_fotie_primary = F Otie Snout (Primary)
+marking-SnoutFOtie-snout_fotie_secondary = F Otie Snout (Secondary)
+
+marking-SnoutOtie = Otie Snout
+marking-SnoutOtie-snout_otie_primary = Otie Snout (Primary)
+marking-SnoutOtie-snout_otie_secondary = Otie Snout (Secondary)
+
+marking-SnoutOtieSmile = Otie Smile Snout
+marking-SnoutOtieSmile-snout_otiesmile_primary = Otie Smile Snout (Primary)
+marking-SnoutOtieSmile-snout_otiesmile_secondary = Otie Smile Snout (Secondary)
+
+marking-SnoutPede = Scolipede Snout
+marking-SnoutPede-snout_pede_primary = Scolipede Snout (Primary)
+marking-SnoutPede-snout_pede_secondary = Scolipede Snout (Secondary)
+
+marking-SnoutRodent = Rodent Snout
+marking-SnoutRodent-snout_rodent_primary = Rodent Snout (Primary)
+
+marking-SnoutRhino = Rhino Snout
+marking-SnoutRhino-snout_rhino_primary = Rhino Snout (Primary)
+marking-SnoutRhino-snout_rhino_secondary = Rhino Snout (Secondary)
+marking-SnoutRhino-snout_rhino_tertiary = Rhino Snout (Tertiary)
+
+marking-SnoutBovine = Bovine Snout
+marking-SnoutBovine-snout_bovine_primary = Bovine Snout (Primary)
+marking-SnoutBovine-snout_bovine_secondary = Bovine Snout (Secondary)
+marking-SnoutBovine-snout_bovine_tertiary = Bovine Snout (Tertiary)
+
+marking-SnoutElephant = Elephant Snout
+marking-SnoutElephant-snout_elephant_primary = Elephant Snout (Primary)
+marking-SnoutElephant-snout_elephant_secondary = Elephant Snout (Secondary)
+
+marking-SnoutShark = Shark Snout
+marking-SnoutShark-snout_shark_primary = Shark Snout (Primary)
+
+marking-SnoutShark = H Shark Snout
+marking-SnoutShark-snout_hshark_primary = H Shark Snout (Primary)
+marking-SnoutShark-snout_hshark_secondary = H Shark Snout (Secondary)
+
+marking-SnoutSharkEyes = H Shark Snout with Eyes
+marking-SnoutSharkEyes-snout_hshark_eyes_primary = H Shark Snout with Eyes (Primary)
+marking-SnoutSharkEyes-snout_hshark_eyes_secondary = H Shark Snout with Eyes (Secondary)
+
+marking-SnoutBug = Bug Snout
+marking-SnoutBug-snout_bug_primary = Bug Snout (Primary)
+marking-SnoutBug-snout_bug_secondary = Bug Snout (Secondary)
+
+marking-SnoutBugNoEyes = Bug Snout, No Eyes
+marking-SnoutBugNoEyes-snout_bug_no_eyes = Bug Snout, No Eyes
+
+marking-SnoutSergal = Sergal Snout
+marking-SnoutSergal-snout_sergal_primary = Sergal Snout (Primary)
+marking-SnoutSergal-snout_sergal_secondary = Sergal Snout (Secondary)
+
+marking-SnoutHHorse = H Horse Snout
+marking-SnoutHHorse-snout_hhorse_primary = H Horse Snout (Primary)
+marking-SnoutHHorse-snout_hhorse_secondary = H Horse Snout (Secondary)
+
+marking-SnoutHZebra = H Zebra Snout
+marking-SnoutHZebra-snout_hzebra_primary = H Zebra Snout (Primary)
+marking-SnoutHZebra-snout_hzebra_secondary = H Zebra Snout (Secondary)
+
+marking-SnoutHAnubus = H Anubus Snout
+marking-SnoutHAnubus-snout_hanubus_primary = H Anubus Snout (Primary)
+marking-SnoutHAnubus-snout_hanubus_secondary = H Anubus Snout (Secondary)
+
+marking-SnoutHJackal = H Jackal Snout
+marking-SnoutHJackal-snout_hjackal_primary = H Jackal Snout (Primary)
+marking-SnoutHJackal-snout_hjackal_secondary = H Jackal Snout (Secondary)
+
+marking-SnoutHSpots = H Spots Snout
+marking-SnoutHSpots-snout_hspots_primary = H Spots Snout (Primary)
+marking-SnoutHSpots-snout_hspots_secondary = H Spots Snout (Secondary)
+
+marking-SnoutSkulldog = Skulldog Snout
+marking-SnoutSkulldog-snout_skulldog_primary = Skulldog Snout (Primary)
+marking-SnoutSkulldog-snout_skulldog_secondary = Skulldog Snout (Secondary)
+marking-SnoutSkulldog-snout_skulldog_tertiary = Skulldog Snout (Tertiary)
+
+marking-SnoutSharkBlubber = Shark Blubber Snout
+marking-SnoutSharkBlubber-snout_sharkblubber_primary = Shark Blubber Snout (Primary)
+marking-SnoutSharkBlubber-snout_sharkblubber_secondary = Shark Blubber Snout (Secondary)
+
+marking-SnoutRat = Rat Snout
+marking-SnoutRat-snout_rat_primary = Rat Snout (Primary)
+marking-SnoutRat-snout_rat_tertiary = Rat Snout (Tertiary)
+
+marking-SnoutNTajaran = N Tajaran Snout
+marking-SnoutNTajaran-snout_ntajaran = N Tajaran Snout
+
+marking-SnoutStubby = Stubby Snout
+marking-SnoutStubby-snout_stubby_primary = Stubby Snout (Primary)
+marking-SnoutStubby-snout_stubby_secondary = Stubby Snout (Secondary)
+
+marking-SnoutLeporid = Leporid Snout
+marking-SnoutLeporid-snout_leporid_primary = Leporid Snout (Primary)
+marking-SnoutLeporid-snout_leporid_secondary = Leporid Snout (Secondary)
+
 
 marking-EarsFox-ears_fox_secondary = Fox Ears (Inside)
 marking-EarsFox-ears_fox_primary = Fox Ears (Outside)
