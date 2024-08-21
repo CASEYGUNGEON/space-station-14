@@ -287,6 +287,10 @@
   speciesRestriction: [Anthro]
   sprites:
   - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_eevee_FRONT_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_eevee_FRONT_secondary
+  - sprite: Mobs/Customization/skyratears.rsi
     state: m_ears_eevee_ADJ_primary
   - sprite: Mobs/Customization/skyratears.rsi
     state: m_ears_eevee_ADJ_secondary
@@ -305,3 +309,123 @@
     state: m_ears_eevee_alt_ADJ_primary
   - sprite: Mobs/Customization/skyratears.rsi
     state: m_ears_eevee_alt_ADJ_secondary
+
+- type: marking
+  id: EarsElephant
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_elephant_FRONT
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_elephant_ADJ
+
+- type: marking
+  id: EarsElf
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_elf_FRONT
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_elf_ADJ
+
+- type: marking
+  id: EarsElfBroad
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_elfbroad_FRONT
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_elfbroad_ADJ
+
+- type: marking
+  id: EarsElfLonger
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_elflonger_FRONT
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_elflonger_ADJ
+
+- type: marking
+  id: EarsElfWide
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_elfwide_FRONT
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_elfwide_ADJ
+
+- type: marking
+  id: EarsSabrasuneExtra
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_extra_sabrasune_FRONT
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_extra_sabrasune_ADJ
+
+- type: marking
+  id: EarsFennec
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_fennec_FRONT_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_fennec_FRONT_tertiary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_fennec_ADJ_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_fennec_ADJ_tertiary
+
+- type: marking
+  id: EarsFish
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_fish_FRONT
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_fish_ADJ
+
+- type: marking
+  id: EarsFourEars2
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_four_ears_2_FRONT_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_four_ears_2_FRONT_tertiary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_four_ears_2_ADJ_primary
+
+- type: marking
+  id: EarsFox
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_fox_FRONT_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_fox_FRONT_secondary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_fox_ADJ_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_fox_ADJ_secondary
