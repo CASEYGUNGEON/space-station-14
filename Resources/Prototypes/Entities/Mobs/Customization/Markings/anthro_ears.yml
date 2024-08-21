@@ -1,0 +1,307 @@
+#####    EARS    #####
+
+- type: marking
+  id: EarsFox
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: ears_fox_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: ears_fox_secondary
+
+- type: marking
+  id: EarsAntennaFuzzball
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_antenna_fuzzball_FRONT_secondary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_antenna_fuzzball_FRONT_tertiary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_antenna_fuzzball_ADJ_secondary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_antenna_fuzzball_ADJ_tertiary
+
+- type: marking
+  id: EarsAntennaFuzzballv2
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_antenna_fuzzballv2_FRONT_secondary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_antenna_fuzzballv2_FRONT_tertiary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_antenna_fuzzballv2_ADJ_secondary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_antenna_fuzzballv2_ADJ_tertiary
+
+- type: marking
+  id: EarsAntennaSimple1
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_antenna_simple1_FRONT_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_antenna_simple1_ADJ_primary
+
+- type: marking
+  id: EarsAntennaSimple1v2
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_antenna_simple1v2_FRONT_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_antenna_simple1v2_ADJ_primary
+
+- type: marking
+  id: EarsAntennaSimple2
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_antenna_simple2_FRONT_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_antenna_simple2_ADJ_primary
+
+- type: marking
+  id: EarsAntennaSimple2v2
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_antenna_simple2v2_FRONT_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_antenna_simple2v2_ADJ_primary
+
+- type: marking
+  id: EarsAxolotl
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_axolotl_FRONT
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_axolotl_ADJ
+
+- type: marking
+  id: EarsBat
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_bat_ADJ_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_bat_ADJ_secondary
+
+- type: marking
+  id: EarsBear
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_bear_FRONT
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_bear_ADJ
+
+- type: marking
+  id: EarsBigWolf
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_bigwolf_ADJ_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_bigwolf_FRONT_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_bigwolf_FRONT_tertiary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_bigwolfinner_ADJ
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_bigwolfinner_FRONT
+
+- type: marking
+  id: EarsBigWolfDark
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_bigwolfdark_ADJ_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_bigwolfdark_FRONT_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_bigwolfdark_FRONT_tertiary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_bigwolfinnerdark_ADJ
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_bigwolfinnerdark_FRONT
+
+- type: marking
+  id: EarsBunny
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_bunny_ADJ_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_bunny_FRONT_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_bunny_ADJ_secondary
+
+- type: marking
+  id: EarsBunnyAlt
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_bunnyalt_ADJ_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_bunnyalt_FRONT_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_bunnyalt_FRONT_secondary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_bunnyalt_ADJ_secondary
+
+- type: marking
+  id: EarsCatBig
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_catbig_ADJ_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_catbig_ADJ_secondary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_catbig_FRONT_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_catbig_FRONT_secondary
+
+- type: marking
+  id: EarsCatNormal
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_catnormal_ADJ_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_catnormal_ADJ_secondary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_catnormal_FRONT_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_catnormal_FRONT_secondary
+
+- type: marking
+  id: EarsCobraEars
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_cobraears_ADJ_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_cobraears_ADJ_secondary
+
+- type: marking
+  id: EarsCobraHood
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_cobrahood_ADJ_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_cobrahood_ADJ_secondary
+
+- type: marking
+  id: EarsCow
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_cow_ADJ
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_cow_FRONT
+
+- type: marking
+  id: EarsDeer
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_deer_ADJ
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_deer_FRONT
+
+- type: marking
+  id: EarsDeer2
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_deer2_ADJ
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_deer2_FRONT
+
+- type: marking
+  id: EarsDeerEar
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_deerear_ADJ_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_deerear_FRONT_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_deerear_ADJ_secondary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_deerear_FRONT_secondary
+
+- type: marking
+  id: EarsEevee
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_eevee_ADJ_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_eevee_ADJ_secondary
+
+- type: marking
+  id: EarsEeveeAlt
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_eevee_alt_FRONT_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_eevee_alt_FRONT_secondary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_eevee_alt_ADJ_primary
+  - sprite: Mobs/Customization/skyratears.rsi
+    state: m_ears_eevee_alt_ADJ_secondary
