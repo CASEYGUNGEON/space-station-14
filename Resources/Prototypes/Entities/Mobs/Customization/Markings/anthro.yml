@@ -883,18 +883,3 @@
     state: snout_leporid_primary
   - sprite: Mobs/Customization/skyratsnouts.rsi
     state: snout_leporid_secondary
-
-
-
-##### TAILS #####
-
-- type: marking
-  id: TailFox
-  bodyPart: Tail
-  markingCategory: Tail
-  speciesRestriction: [Anthro]
-  sprites:
-  - sprite: Mobs/Customization/skyrattails.rsi
-    state: tail_fox_secondary
-  - sprite: Mobs/Customization/skyrattails.rsi
-    state: tail_fox_primary

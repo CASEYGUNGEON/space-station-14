@@ -1,0 +1,350 @@
+##### TAILS #####
+
+- type: marking
+  id: TailFox
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: tail_fox_secondary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: tail_fox_primary
+
+- type: marking
+  id: Tail9sune
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_9sune_FRONT_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_9sune_FRONT_secondary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_9sune_BEHIND_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_9sune_BEHIND_secondary
+
+- type: marking
+  id: TailAvian1
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_avian1_FRONT_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_avian1_FRONT_secondary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_avian1_BEHIND_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_avian1_BEHIND_secondary
+
+- type: marking
+  id: TailAvian2
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_avian2_FRONT_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_avian2_FRONT_secondary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_avian2_BEHIND_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_avian2_BEHIND_secondary
+
+- type: marking
+  id: TailAxolotl
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_axolotl_FRONT_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_axolotl_BEHIND_primary
+
+- type: marking
+  id: TailBatl
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_batl_FRONT_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_batl_FRONT_secondary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_batl_BEHIND_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_batl_BEHIND_secondary
+
+- type: marking
+  id: TailBatl
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_batl_FRONT_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_batl_FRONT_secondary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_batl_BEHIND_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_batl_BEHIND_secondary
+
+- type: marking
+  id: TailBats
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_bats_FRONT_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_bats_FRONT_secondary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_bats_BEHIND_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_bats_BEHIND_secondary
+
+- type: marking
+  id: TailBee
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_bee_FRONT_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_bee_FRONT_secondary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_bee_BEHIND_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_bee_BEHIND_secondary
+
+- type: marking
+  id: TailCable
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_cable_FRONT_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_cable_BEHIND_primary
+
+- type: marking
+  id: TailCat
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_cat_FRONT_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_cat_BEHIND_primary
+
+- type: marking
+  id: TailCatBig
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_catbig_FRONT_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_catbig_BEHIND_primary
+
+- type: marking
+  id: TailCow
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_cow_FRONT_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_cow_BEHIND_primary
+
+- type: marking
+  id: TailCrow
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_crow_FRONT_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_crow_BEHIND_primary
+
+- type: marking
+  id: TailDatashark
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_datashark_FRONT_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_datashark_FRONT_secondary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_datashark_BEHIND_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_datashark_BEHIND_secondary
+
+- type: marking
+  id: TailDeer
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_deer_FRONT_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_deer_FRONT_secondary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_deer_BEHIND_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_deer_BEHIND_secondary
+
+- type: marking
+  id: TailDeerTwo
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_deer_two_FRONT
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_deer_two_BEHIND
+
+- type: marking
+  id: TailDoubleKitsune
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_doublekitsune_FRONT_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_doublekitsune_FRONT_secondary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_doublekitsune_BEHIND_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_doublekitsune_BEHIND_secondary
+
+- type: marking
+  id: TailDTiger
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_dtiger_FRONT
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_dtiger_BEHIND
+
+- type: marking
+  id: TailEevee
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_eevee_FRONT_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_eevee_FRONT_secondary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_eevee_BEHIND_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_eevee_BEHIND_secondary
+
+- type: marking
+  id: TailFennec
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_fennec_FRONT_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_fennec_FRONT_secondary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_fennec_BEHIND_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_fennec_BEHIND_secondary
+
+- type: marking
+  id: TailFish
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_fish_FRONT_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_fish_BEHIND_primary
+
+- type: marking
+  id: TailFox
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_fox_FRONT_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_fox_BEHIND_primary
+
+- type: marking
+  id: TailFox2
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_fox2_FRONT_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_fox2_BEHIND_primary
+
+- type: marking
+  id: TailFox3
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_fox3_FRONT_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_fox3_BEHIND_primary
+
+- type: marking
+  id: TailGuilmon
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_guilmon_FRONT_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_guilmon_BEHIND_primary
+
+- type: marking
+  id: TailHawk
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Anthro]
+  sprites:
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_hawk_FRONT_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_hawk_FRONT_secondary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_hawk_BEHIND_primary
+  - sprite: Mobs/Customization/skyrattails.rsi
+    state: m_tail_hawk_BEHIND_secondary
