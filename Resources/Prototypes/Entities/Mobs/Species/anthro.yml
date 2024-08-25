@@ -1,7 +1,7 @@
 - type: entity
   save: false
   name: Animal Creature
-  parent: BaseMobOrganic
+  parent: BaseMobSpeciesOrganic
   id: MobAnthro
   abstract: true
   components:
